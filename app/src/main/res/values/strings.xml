@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Яичница</string>
+    <string name="txt_eggs">яиц в яичнице</string>
+    <string name="btn_eggs">Счетчик яиц</string>
+</resources>
